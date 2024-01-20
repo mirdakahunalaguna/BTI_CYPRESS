@@ -1,0 +1,8 @@
+running back-end express.js
+  -> cd to "full-stack-cypress\Backend-API-Express-MySQL">
+  -> npm start
+running front-end vue.js
+  ->cd to "full-stack-cypress\frontend-api-vue-mysql>"
+  -> npm run serve
+opn/running cypress ui
+->cd to "belajar-javascript\full-stack-cypress">npx cypress open
